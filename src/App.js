@@ -51,7 +51,7 @@ function HomePage() {
       <AppBar position="sticky" className={classes.appBar}>
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
-            FuelMate
+            Fuel.Mate
           </Typography>
           <Button className={classes.button} onClick={() => console.log('Button pressed ...')}>
             Log In
